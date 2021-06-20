@@ -2,7 +2,6 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
     text-align: center;
 }
 
@@ -12,3 +11,17 @@
     width: 50%;
     text-align: center;
 }
+
+
+#title {
+    font-family: Monaco;
+    font-size: 40px;
+}
+
+
+.fa {
+    font-size: 30px;
+    width: 50px;
+    text-decoration: none;
+  }
+  

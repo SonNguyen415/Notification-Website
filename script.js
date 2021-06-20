@@ -3,3 +3,10 @@ document.getElementById("navbar").innerHTML = `<div class='row' style='width: 10
   <a href="aboutme.html"><button class="btn btn-primary m-1">About Me</button></a>
   <a href="gallery.html"><button class="btn btn-primary m-1">Gallery</button></a>
 </div>`;
+
+
+
+document.getElementById("footer").innerHTML = `<p>Author: ?????<br>
+<a href="#" class="fa fa-facebook"></a>
+<br>
+<a href="mailto:email@example.com">email@example.com</a></p>`;

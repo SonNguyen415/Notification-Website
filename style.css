@@ -1,8 +1,14 @@
 .center {
     display: block;
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
+    width: 50%;
+}
+
+#info {
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 #navbar {
@@ -23,5 +29,13 @@
     font-size: 30px;
     width: 50px;
     text-decoration: none;
-  }
+}
   
+.fa:hover {
+    opacity: 0.7;
+}
+
+#placeholder {
+    width: 50%;
+    height: 50%
+}
